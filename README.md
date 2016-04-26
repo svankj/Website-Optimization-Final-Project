@@ -3,10 +3,10 @@ The source code of the website to optimize is [here](https://github.com/udacity/
 
 ## Introduction
 In this repository you can find:
-*   the source directory, `src/`, including the source code of the website to optimize
-*   the distribution directory, `dist/`, including the final code of website optimized
+*   the source directory, `src/`, including the optimized source code (readable) of the website
+*   the distribution directory, `dist/`, including the optimized source code (minified) of the website
 *   the tools directory, `tools/`, including the files to run the code
-*   this file, **readme.md**, documentation file
+*   this file, **README.md**, documentation file
 
 Developer tools I used to code the project:
 *   my OS is **Ubuntu 14.04 LTS (Trusty Tahr)**
@@ -40,7 +40,6 @@ Some notes on the project:
   * I made only optimization modifications, then it is still the website of Cameron Pittman.
   * All my comments in the files css, html, js have the prefix `TODO:`.
   * Added the Udacity favicon missing.
-  * There are compress files (html, css, js) and the files for documentation that end with `-dev` suffix.
 
 The optimization is divided in two part:
 
